@@ -16,7 +16,7 @@ Mestrado em Engenharia de Redes e Sistemas Informáticos - @fcup
 |             |    |               |
 |             |    |       |
 |             | CC4040   | sistemas Embutidos           |
-|             | cc4090   | Topicos avançados em redes           |
+|             | CC4090   | [Topicos avançados em redes](https://github.com/monica-a-araujo/MERSI/tree/main/1%20ano/TAR)           |
 
 ## 2 Ano (2024/2025)
 
