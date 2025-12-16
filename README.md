@@ -11,7 +11,7 @@ Mestrado em Engenharia de Redes e Sistemas Informáticos - @fcup
 |             |    |           |
 |             |     |  |
 |             |          |                                 |
-| 2º semestre |  CC4092   |     Admistração de sistemas cloud                  |
+| 2º semestre |  CC4092   |     [Admistração de sistemas cloud](https://github.com/monica-a-araujo/Fcup-AdmCloud)                 |
 |             |  CC4039  |  Redes de Comunicação Móveis             |
 |             | CC4030   |   Segurança de Sistemas e Dados    |
 |             | CC4040   | Sistemas Embutidos           |
