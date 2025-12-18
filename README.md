@@ -5,11 +5,11 @@ Mestrado em Engenharia de Redes e Sistemas Informáticos - @fcup
 
 | Semestre    | Código   | Disciplina                      |
 |-------------|----------|---------------------------------|
-| 1º semestre |     |                        |
-|             |    |             |
-|             |    |     |
-|             |    |           |
-|             |     |  |
+| 1º semestre |   CC4079  |      Admistração de Redes                  |
+|             | CC4069 |	Administração de Sistemas             |
+|             | CC4018 |	Data Mining I     |
+|             | CC4005	| Gestão de Projetos Informáticos         |
+|             | 	CC4031 |	Segurança de Redes	 |
 |             |          |                                 |
 | 2º semestre |  CC4092   |     [Admistração de sistemas cloud](https://github.com/monica-a-araujo/Fcup-AdmCloud)                 |
 |             |  CC4039  |  Redes de Comunicação Móveis             |
